@@ -1,4 +1,6 @@
 #-------------------------------------------------------------------------------
+This code implement SMG algorithm in the paper 
+http://proceedings.mlr.press/v139/tran21b.html
 
 Our code consists of two folders: Neural_Network and Logistic_Regression, where
 you will find the full code for the respective models. If you want to implement 
