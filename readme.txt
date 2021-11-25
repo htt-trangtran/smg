@@ -1,4 +1,3 @@
-#-------------------------------------------------------------------------------
 This code implement SMG algorithm in the paper 
 http://proceedings.mlr.press/v139/tran21b.html
 
@@ -16,4 +15,3 @@ the hyper-parameter tuning setting for each of our experiments. Four algorithms
 used (denoted by SMG, SGD, SGDM, and ADAM) and four learning rate schemes can be 
 found in the respective Python files: algorithms.py and schedule_LR.py.
 
-#-------------------------------------------------------------------------------
